@@ -1,0 +1,36 @@
+body{color: white;
+     background:black ;
+     margin-bottom: 2px;
+     
+;}
+
+
+     header{border-bottom: solid 0px rgb(42, 122, 228);
+     padding: 30px;
+      font-size: 32px;
+      color: rgb(42, 122, 228);
+}
+
+section{background-color: rgb(78, 78, 89, 1);
+    
+     padding-top: 80px;
+     display: flex;
+     justify-content: center;
+     border-bottom: solid  rgb(42, 122, 228);
+}
+
+.chamada-texto {
+     margin-right: 15%;
+
+}
+
+h1{font-size: 45px;}
+p{font-size: 20px;}
+
+img{
+     height: 250px;
+}
+h2{font-size: 25px; padding-right: 90%;
+}
+
+.mamada {background-color: black;}
